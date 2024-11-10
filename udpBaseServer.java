@@ -9,7 +9,7 @@ public static void main(String[] args) throws IOException
 {DatagramSocket ds = new DatagramSocket(1234);
 byte[] receive = new byte[65535];
 DatagramPacket DpReceive = null;
-System.out.println("This program is done by SURESH S 221211101143"); while (true)
+System.out.println("This program is done by franklin joseph 221211101041"); while (true)
 {
 DpReceive = new DatagramPacket(receive, receive.length);
 ds.receive(DpReceive);
