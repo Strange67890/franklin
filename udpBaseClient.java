@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class udpBaseClient
 {
 public static void main(String args[]) throws IOException{
-System.out.println("This program is done by SURESH S 221211101143"); Scanner sc = new
+System.out.println("This program is done by franklin joseph 221211101041"); Scanner sc = new
 Scanner(System.in);
 DatagramSocket ds = new DatagramSocket();
 InetAddress ip = InetAddress.getLocalHost();
