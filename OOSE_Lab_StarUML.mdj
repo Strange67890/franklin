@@ -1,0 +1,291 @@
+{
+  "_id": "770DB579-9463-4DD5-A0BD-EC49A4DF365E",
+  "_type": "Project",
+  "name": "OOSE Lab Diagrams",
+  "ownedElements": [
+    {
+      "_id": "F42036ED-4A12-48B7-9AF6-97A65848DD23",
+      "_type": "UMLModel",
+      "name": "Student Result Management System",
+      "ownedElements": [
+        {
+          "_id": "9508EC27-1801-4F8A-BC7B-D03ACD98C4E1",
+          "_type": "UMLUseCaseDiagram",
+          "name": "Use Case",
+          "ownedViews": []
+        },
+        {
+          "_id": "86BE30E1-03A2-4A6C-B518-3CE2D2DFE86F",
+          "_type": "UMLActivityDiagram",
+          "name": "Activity",
+          "ownedViews": []
+        },
+        {
+          "_id": "DF38881A-07E4-4584-9623-48C4FE928C8C",
+          "_type": "UMLSequenceDiagram",
+          "name": "Sequence",
+          "ownedViews": []
+        },
+        {
+          "_id": "09841AA0-2772-4270-8595-256EB0251CDF",
+          "_type": "UMLCommunicationDiagram",
+          "name": "Communication",
+          "ownedViews": []
+        }
+      ]
+    },
+    {
+      "_id": "827C3F89-6017-44EB-896A-3CD0920AF5ED",
+      "_type": "UMLModel",
+      "name": "Inventory Control System",
+      "ownedElements": [
+        {
+          "_id": "7E7A089E-332A-4013-8995-46F9264B429E",
+          "_type": "UMLUseCaseDiagram",
+          "name": "Use Case",
+          "ownedViews": []
+        },
+        {
+          "_id": "B4B1D4DD-872F-4DF1-835C-F9F65E96CABF",
+          "_type": "UMLActivityDiagram",
+          "name": "Activity",
+          "ownedViews": []
+        },
+        {
+          "_id": "50B59B69-0279-41B5-91B8-8FA78A197847",
+          "_type": "UMLSequenceDiagram",
+          "name": "Sequence",
+          "ownedViews": []
+        },
+        {
+          "_id": "80A00E6B-99D3-4C2E-BD28-1337B91118A5",
+          "_type": "UMLCommunicationDiagram",
+          "name": "Communication",
+          "ownedViews": []
+        },
+        {
+          "_id": "D2529EED-DED0-4F59-A0FC-368DC34FDB39",
+          "_type": "UMLClassDiagram",
+          "name": "Class",
+          "ownedViews": []
+        }
+      ]
+    },
+    {
+      "_id": "86B0F2FC-B42F-4548-ABE1-E47B33630513",
+      "_type": "UMLModel",
+      "name": "Railway Reservation System",
+      "ownedElements": [
+        {
+          "_id": "0D8F569E-10B3-4F40-8465-69F1FF136357",
+          "_type": "UMLUseCaseDiagram",
+          "name": "Use Case",
+          "ownedViews": []
+        },
+        {
+          "_id": "AA0715D4-D1E6-4ED0-B6DB-69EF13A0EA69",
+          "_type": "UMLActivityDiagram",
+          "name": "Activity",
+          "ownedViews": []
+        },
+        {
+          "_id": "68C3C2F0-3FCF-453C-867B-55095BD0F836",
+          "_type": "UMLSequenceDiagram",
+          "name": "Sequence",
+          "ownedViews": []
+        },
+        {
+          "_id": "9C8B1A15-47F2-4BE5-98D1-1033C738B6BA",
+          "_type": "UMLCommunicationDiagram",
+          "name": "Communication",
+          "ownedViews": []
+        },
+        {
+          "_id": "8A05075B-458B-400B-B3E7-9E9B79AEB507",
+          "_type": "UMLClassDiagram",
+          "name": "Class",
+          "ownedViews": []
+        }
+      ]
+    },
+    {
+      "_id": "3E21FF73-AE66-479A-9F8F-7B7842138FAB",
+      "_type": "UMLModel",
+      "name": "Hotel Management System",
+      "ownedElements": [
+        {
+          "_id": "6E3465BE-A9F1-4288-A753-F48EA60C1031",
+          "_type": "UMLUseCaseDiagram",
+          "name": "Use Case",
+          "ownedViews": []
+        },
+        {
+          "_id": "4BBA2823-90D8-407E-A643-B56A586568D2",
+          "_type": "UMLActivityDiagram",
+          "name": "Activity",
+          "ownedViews": []
+        },
+        {
+          "_id": "371E8698-0A6A-4626-A29A-2D82F3AE51E6",
+          "_type": "UMLSequenceDiagram",
+          "name": "Sequence",
+          "ownedViews": []
+        },
+        {
+          "_id": "C5D2E87C-054A-46EA-9856-D7C76B565379",
+          "_type": "UMLCommunicationDiagram",
+          "name": "Communication",
+          "ownedViews": []
+        },
+        {
+          "_id": "FD3EC33B-8146-4E4E-B636-5589076CA0DB",
+          "_type": "UMLClassDiagram",
+          "name": "Class",
+          "ownedViews": []
+        }
+      ]
+    },
+    {
+      "_id": "FE1C3ED1-0B47-4540-9E70-A6B416805962",
+      "_type": "UMLModel",
+      "name": "Automated Banking System",
+      "ownedElements": [
+        {
+          "_id": "C410F06B-C72C-45E6-815A-14BDF6EFF556",
+          "_type": "UMLUseCaseDiagram",
+          "name": "Use Case",
+          "ownedViews": []
+        },
+        {
+          "_id": "4CC4097B-02C8-4D58-82DC-518CBE31055C",
+          "_type": "UMLActivityDiagram",
+          "name": "Activity",
+          "ownedViews": []
+        },
+        {
+          "_id": "FF0FC0E7-484B-422F-905D-4A2EC642F17E",
+          "_type": "UMLSequenceDiagram",
+          "name": "Sequence",
+          "ownedViews": []
+        },
+        {
+          "_id": "E42C9AAC-4013-411A-9212-DD48E6BC5C09",
+          "_type": "UMLCommunicationDiagram",
+          "name": "Communication",
+          "ownedViews": []
+        },
+        {
+          "_id": "B14C5E3B-B74B-40D5-8C69-DF0D5D56D639",
+          "_type": "UMLClassDiagram",
+          "name": "Class",
+          "ownedViews": []
+        }
+      ]
+    },
+    {
+      "_id": "90834C64-A93B-4166-900E-26D3FDA66887",
+      "_type": "UMLModel",
+      "name": "Library Management System",
+      "ownedElements": [
+        {
+          "_id": "698F1C09-DD23-41BF-8DDD-02237AAAB008",
+          "_type": "UMLUseCaseDiagram",
+          "name": "Use Case",
+          "ownedViews": []
+        },
+        {
+          "_id": "7AA9F699-984E-4BFC-9F3C-9D95D90D6F00",
+          "_type": "UMLActivityDiagram",
+          "name": "Activity",
+          "ownedViews": []
+        },
+        {
+          "_id": "77F0C703-BB6F-44A8-8A33-6AF09D397A6C",
+          "_type": "UMLSequenceDiagram",
+          "name": "Sequence",
+          "ownedViews": []
+        },
+        {
+          "_id": "9C9B1A30-6DE6-429B-99D9-D477CE69E78A",
+          "_type": "UMLCommunicationDiagram",
+          "name": "Communication",
+          "ownedViews": []
+        },
+        {
+          "_id": "0C2DE717-D4DE-4FC1-A6C2-B8A9A3141669",
+          "_type": "UMLClassDiagram",
+          "name": "Class",
+          "ownedViews": []
+        }
+      ]
+    },
+    {
+      "_id": "E72D8506-FC0A-4132-905D-03AF35B332EC",
+      "_type": "UMLModel",
+      "name": "Passport Automation System",
+      "ownedElements": [
+        {
+          "_id": "88545892-37CB-4CA7-B22E-C4CA92E7C9EF",
+          "_type": "UMLUseCaseDiagram",
+          "name": "Use Case",
+          "ownedViews": []
+        },
+        {
+          "_id": "B36F8AB6-733C-493D-9DBD-6A88D504FA13",
+          "_type": "UMLActivityDiagram",
+          "name": "Activity",
+          "ownedViews": []
+        },
+        {
+          "_id": "31E8FA1B-B5D0-4D8F-9F8A-9816873FE514",
+          "_type": "UMLSequenceDiagram",
+          "name": "Sequence",
+          "ownedViews": []
+        },
+        {
+          "_id": "42888D5B-6029-4CFE-B572-4CA1AE17A110",
+          "_type": "UMLCommunicationDiagram",
+          "name": "Communication",
+          "ownedViews": []
+        },
+        {
+          "_id": "01CF126D-2466-444F-8B63-930CEE3CAAD1",
+          "_type": "UMLClassDiagram",
+          "name": "Class",
+          "ownedViews": []
+        }
+      ]
+    },
+    {
+      "_id": "02D531D5-702A-4510-B716-526A3D6AACAD",
+      "_type": "UMLModel",
+      "name": "E-Ticketing System",
+      "ownedElements": [
+        {
+          "_id": "FEA38EC0-9223-4AFC-ABEE-966F80934A83",
+          "_type": "UMLUseCaseDiagram",
+          "name": "Use Case",
+          "ownedViews": []
+        },
+        {
+          "_id": "95F9F63C-55DE-45EE-AA3C-2DA7DBBE58BC",
+          "_type": "UMLActivityDiagram",
+          "name": "Activity",
+          "ownedViews": []
+        },
+        {
+          "_id": "5A8ED956-1A54-4017-8A43-88902A6C96F2",
+          "_type": "UMLCommunicationDiagram",
+          "name": "Communication",
+          "ownedViews": []
+        },
+        {
+          "_id": "39F71619-11D9-49D4-B458-ADA6120670D3",
+          "_type": "UMLClassDiagram",
+          "name": "Class",
+          "ownedViews": []
+        }
+      ]
+    }
+  ]
+}
